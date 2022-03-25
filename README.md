@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://twitter.com/nt_vuongg" alt="twitter" target="_blank" >
-    <img src="https://img.icons8.com/color/452/twitter--v1.pngg"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
   </a>
   <a href="mailto:nhokskt0907@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
