@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
   </a>
   <a href="mailto:nhokskt0907@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/stickers/100/000000/gmail.png"/>
   </a>
 </p>
 
