@@ -11,7 +11,7 @@
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/ntvuongg" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" target="_blank" />
   </a> 
   <a href="github.com/ntvuongg" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
   </a>
   <a href="mailto:nhokskt0907@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/stickers/100/000000/gmail.png"/>
+    <img src="https://img.icons8.com/stickers/48/000000/gmail.png"/>
   </a>
 </p>
 
