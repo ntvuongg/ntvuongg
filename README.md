@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vuong</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">No pain no gain 💪 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ntvuongg" alt="ntvuongg" /> <img src="https://badges.pufler.dev/repos/ntvuongg" alt="ntvuongg" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ntvuongg" alt="ntvuongg"/></p>
 
 - ✍ I'm currently a junior student of: [University of Information Technology](https://www.uit.edu.vn/) (UIT).
 
