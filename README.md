@@ -7,7 +7,7 @@
 
 - 🎓 Major in **Computer Science**.
 
-- 🔎 Interested in **Computer Vision**.
+- 🔎 Interested in **AI, Machine Learning, Computer Vision**.
 
 ## 📌 Skills:
 <p align="center">
