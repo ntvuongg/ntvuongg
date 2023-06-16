@@ -3,7 +3,7 @@
 <h3 align="center">No pain no gain 💪 </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ntvuongg" alt="ntvuongg"/></p>
 
-- ✍ I'm currently a junior student of: [University of Information Technology](https://www.uit.edu.vn/) (UIT).
+- ✍ A graduate student at [University of Information Technology](https://www.uit.edu.vn/) (UIT).
 
 - 🎓 Major in **Computer Science**.
 
